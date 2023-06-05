@@ -1,0 +1,15 @@
+Ad name,,Ad Set Name,,Results,Result indicator,Reach,Impressions,Cost per results,Amount spent (USD),Website purchase ROAS (return on ad spend),Purchases,Website purchases conversion value,"CPM (cost per 1,000 impressions) (USD)",Cost per unique outbound click (USD)
+PB | Video | BSK | C1 | V4 | Story | Funnel | 20230527,,PB | All | 25+ | Broad | 20230601,,1,actions:offsite_conversion.fb_pixel_purchase,3992,4065,127.18,127.18,0.48396,1,61.55,31.286593,2.399623
+PB | Video | BSK | C1 | V3-3 | Story | Funnel | 20230601,,PB | All | 25+ | Broad | 20230601,,8,actions:offsite_conversion.fb_pixel_purchase,5198,6247,35.92125,287.37,2.163169,8,621.63,46.001281,4.164783
+PB | Video | BSK | C1 | V1-3 | Story | Funnel | 20230601,,PB | All | 25+ | Broad | 20230601,,10,actions:offsite_conversion.fb_pixel_purchase,8815,11161,28.727,287.27,2.99544,10,860.5,25.738733,1.853355
+AF | Video | B40 | C1 | V1 | 7 Reasons | Funnel | 20230602,,AF | All | 37+ | Fungus | 20230602,,5,actions:offsite_conversion.fb_pixel_purchase,6568,7728,34.336,171.68,2.647018,5,454.44,22.215321,1.807158
+AF | Video | B40 | C1 | V1 | 7 Reasons | Funnel | 20230602,,AF | All | 37+ | Fungus | 20230602,,2,actions:offsite_conversion.fb_pixel_purchase,4403,4719,63.905,127.81,0.544793,2,69.63,27.084128,1.331354
+AF | Video | B40 | C1 | V3 | 7 Reasons | Funnel | 20230602,,AF | All | 37+ | Fungus | 20230602,,5,actions:offsite_conversion.fb_pixel_purchase,4454,5102,36.964,184.82,1.56509,5,289.26,36.22501,2.200238
+AF | Video | B40 | C2 | V1 | 7 Reasons | Funnel | 20230602,,AF | All | 37+ | Fungus | 20230602,,6,actions:offsite_conversion.fb_pixel_purchase,5690,6475,30.65166667,183.91,2.030232,6,373.38,28.403089,1.194221
+AF | Video | B40 | C2 | V2 | 7 Reasons | Funnel | 20230602,,AF | All | 37+ | Fungus | 20230602,,2,actions:offsite_conversion.fb_pixel_purchase,4922,5512,91.945,183.89,0.926369,2,170.35,33.361756,1.876429
+PB | Video | B40 | CI1 | V1 | Story | Funnel | 20230602,,PB | All | 24+ | Broad | 20230602,,3,actions:offsite_conversion.fb_pixel_purchase,5244,5959,66.16666667,198.5,0.947355,3,188.05,33.310958,1.788288
+PB | Video | B40 | CI1 | V2 | Story | Funnel | 20230602,,PB | All | 24+ | Broad | 20230602,,1,actions:offsite_conversion.fb_pixel_purchase,5022,5276,197.08,197.08,0.318754,1,62.82,37.354056,2.11914
+PB | Video | B40 | C1 | V2 | Story | Funnel | 20230602,,PB | All | 24+ | Broad | 20230602,,4,actions:offsite_conversion.fb_pixel_purchase,4829,5295,49.575,198.3,1.534191,4,304.23,37.450425,2.873913
+PB | Video | B40 | C1 | V3 | Story | Funnel | 20230602,,PB | All | 24+ | Broad | 20230602,,2,actions:offsite_conversion.fb_pixel_purchase,4499,5106,99.17,198.34,0.812141,2,161.08,38.844497,3.88902
+HD | Video | B40 | C1 | V1 | Story | Funnel | 20230602,,HD | All | 36+ | Nail | 20230602,,2,actions:offsite_conversion.fb_pixel_purchase,2238,2399,49.895,99.79,1.032468,2,103.03,41.596499,2.217556
+PB | Video | BSK | C1 | V1-3 | Story | Funnel | 20230601 - Copy,,PB | All | 18+ | Broad | 20230408,,1,actions:offsite_conversion.fb_pixel_purchase,142,159,4.2,4.2,14.759524,1,61.99,26.415094,0.84
